@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-prometheus",
+    "name": "fxmonster/laravel-prometheus",
     "description": "Export Laravel metrics to Prometheus",
     "keywords": [
         "spatie",
